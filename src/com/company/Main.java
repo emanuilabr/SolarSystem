@@ -15,7 +15,7 @@ public class Main {
         SUN omaro = new SUN();
         omaro.temperature= "123456789";
         omaro.name="ferro";
-        omaro.radius=1234455668875555225654;
+        omaro.radius=1555225654;
         omaro.color="pink";
 
 
