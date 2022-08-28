@@ -9,5 +9,15 @@ public class Main {
         inception.Planets=2;
 
         System.out.println("the basic structure is ready");
+
+        //developing the feature SUN
+
+        SUN omaro = new SUN();
+        omaro.temperature= "123456789";
+        omaro.name="ferro";
+        omaro.radius=1234455668875555225654;
+        omaro.color="pink";
+
+
     }
 }
